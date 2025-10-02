@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1677699350 source:c:\users\alexi\onedrive\escritorio\codeblocks\23_01_25_proyecto1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<math.h>
+	<conio.h>
+	<windows.h>
+	<time.h>
+
