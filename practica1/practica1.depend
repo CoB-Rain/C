@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1781182102 source:d:\programacion\c\practica1\main.c
+	"miCabecera1.h"
+
+1781177346 d:\programacion\c\practica1\micabecera1.h
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<math.h>
+	<conio.h>
+	<windows.h>
+	<time.h>
+
